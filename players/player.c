@@ -6,7 +6,7 @@
 #include <public.h>
 
 const char myName[] = "1714311413";
-const char deployment[] = "Bc3c4c5c6 Cc8d8e8 Ce4e5e6 Da5a6 Da2a3 Dc0d0 Si2 Si5 Sg5 Sg7 ";
+const char deployment[] = "Bc3c4c5c6 Cc0d0e0 Cc8d8e8 Di3i4 Da2a3 Dc0d0 Sg0 Si5 Sg5 Sg7 ";
 
 enum ship {
   UNKNOWN,
